@@ -1,4 +1,4 @@
-# Galaxy generator Three.js
+# Galaxy generator - Three.js
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
